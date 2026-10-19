@@ -50,10 +50,6 @@ Os dados e imagens foram consultados no cardápio público em **19/10/2026**. Es
 
 Não há chaves de API, credenciais, rastreadores, formulários ou dependências remotas no código entregue. As imagens foram copiadas para `assets/` para o site não depender da disponibilidade do servidor de imagens do cardápio.
 
-## Publicação
-
-Consulte [PUBLICAR.md](PUBLICAR.md). A hospedagem alvo é o Cloudflare Pages. O projeto ainda precisa ser enviado ao repositório e publicado na sua conta.
-
 ## Canais da Saona
 
 - [Cardápio digital](https://kicardapio.com.br/saona-pizzaria)

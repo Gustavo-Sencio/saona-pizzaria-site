@@ -13,9 +13,6 @@ Foram incluídos somente os produtos disponíveis pertencentes às categorias p�
 ## Canais e referência fornecidos
 
 - Instagram: https://www.instagram.com/saonapizzaria/
-- Referência de estrutura: https://www.armazemdafazenda.com.br/
-
-O site de referência retornou erro durante a consulta. O layout foi desenvolvido a partir da estrutura solicitada: apresentação, cardápio, galeria e contato. Nenhum código, imagem ou marca do restaurante de referência foi reutilizado.
 
 ## Imagens
 
